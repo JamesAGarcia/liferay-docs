@@ -6,6 +6,10 @@ header-id: scheduling-web-content-publication
 
 [TOC levels=1-4]
 
+<aside class="alert alert-info">
+  <span class="wysiwyg-color-blue120">This document has been updated and ported to <a href="https://learn.liferay.com/dxp/7.x/en/site-building/publishing-tools/staging.html">Liferay Learn</a> and is no longer maintained here.</span>
+</aside>
+
 Liferay's Web Content framework lets you define when your content goes live. You
 can determine when the content is displayed, expired, and/or reviewed. This is
 an excellent way to keep your Site current and free from outdated (and perhaps

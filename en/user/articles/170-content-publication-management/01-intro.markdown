@@ -6,6 +6,10 @@ header-id: content-publication-management
 
 [TOC levels=1-4]
 
+<aside class="alert alert-info">
+  <span class="wysiwyg-color-blue120">This document has been updated and ported to <a href="https://learn.liferay.com/dxp/7.x/en/site-building/publishing-tools/staging.html">Liferay Learn</a> and is no longer maintained here.</span>
+</aside>
+
 Today's enterprises generate an enormous amount of content. You can use advanced
 publishing tools to manage content for a seamless publication experience.
 
